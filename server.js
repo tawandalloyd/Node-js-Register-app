@@ -207,8 +207,8 @@ router.route('/login').post(function(req,res){
                         service : 'Gmail',
 
                         auth: {
-                           user: 'tawandalloydcharuka@gmail.com',
-                           pass:'6209lolo',
+                           user: 'email address',
+                           pass:'password',
                         }               
              })
             var mailOptions = {
